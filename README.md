@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi👋, I'm Israel Martins 🇧🇷
 
-<!--
-**IsraelP01/IsraelP01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Aprendiz em Programação para se tornar um Full-Stack**
 
-Here are some ideas to get you started:
+     
+ ### Frontend   
+    
+    ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+    ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Backend
+
+    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+    ![Mysql](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
